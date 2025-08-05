@@ -1,6 +1,9 @@
 name: Deploy to S3
 
-on: workflow_dispatch  # or 'master', depending on your repo
+on: 
+  push:
+    branches:
+      - main
 
 jobs:
   build-and-deploy:
