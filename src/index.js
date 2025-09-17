@@ -24,7 +24,7 @@ const App = () => (
     />
 
     <h1 style={{ fontSize: '2.5rem', marginBottom: '1rem' }}>
-      🚀 Welcome to <span style={{ color: '#ffd700' }}>Admin Dashboard Project 2</span>
+      🚀 Welcome to <span style={{ color: '#ffd700' }}>React Based Admin Dashboard</span>
     </h1>
 
     <p style={{ maxWidth: '500px', fontSize: '1.1rem', lineHeight: '1.6' }}>
